@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_771c502f44f18b00aed9491672b71019df704267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_269fe1506d204b53fb18171256bbc8c7aee41eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_b1d41739f361d6f687e090a975169094a15c7347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_4f6875be74bb924bcf2f3bcfcfe1a0e2250f127d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_bc2cf1970bd7acfc35bec8dfc215a33a983fbb08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_1536afa40598d7020276d366687fabb52b65c35a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d3efbd7c7cc576af0f1ac0bf71580385b8fdb54f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_d21b934672fb4d0454ce738efa7e6c2301b32efa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_a64606d6ea2df63cbd818a4645fae1687645a85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_eef6bbc44e5c934cdbc76b2837676082c26fa450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.3_750f613b4fb8469928ea7b9b7128034f19e4d527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/Projeto/react-native-svg/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c4aff61ec346ad9ffa64a705a754a12aedd053e5">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/Projeto-react-native-svg-unspecified_0c3ba2d74f0181ad272f155535c4df514f5808ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_15c9a656b7bb6af6bca88d8dccc51dc4afc31cb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_31864a694abfae84bcce944fdcf492849881c2b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_6da3091392f04a0f3da167e53ddaa944fa3735e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_8117ff7234d71319f3eebc8195d2342ce6894269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_6eb4b0f7eb3f208a5979d3e4f72ffd0130153375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_92c6fd8743b3081680a301e364bdfd74cc3c4f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_1c8ffba10c577a69eee6630e3d0c1a1df82dece3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_090e80a2ff54d06847b3c17cd3689397f8dac3aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_7e65ae0b540d5bf6a094b865754927b1553c004b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_d223a108d622a911a717a9535b2490f691399644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/teste/Projeto/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_f437608a085a4db44e82b78801a3bba481d93362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_87879778514a4c74b89ae5add95f5495e8cf1cfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vkampgen/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/vkampgen/teste/Projeto/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6a7eeda6aa59c2a30f61543f0c7e3d0d19a2a20f.jar" />
+    </item>
+
+</items>
