@@ -1,4 +1,4 @@
-package com.projetolayout;
+package com.Projeto;
 
 import android.app.Application;
 

@@ -9,11 +9,14 @@
 
 	import Pin from './app/components/Pin'
 
-	export default class projetoLayout extends Component {
+//	var First = require('./app/First');
+	//var Second = require('./app/Second');
+
+	export default class Projeto extends Component {
 		constructor(props){
 			super(props)
 			this.state = {
-				columns: 2,
+				//columns: 2,
 
 				pin: {
 					tucano: {
@@ -34,13 +37,12 @@
 	      <ScrollView style={styles.container} contentContainerStyle={styles.contentContainer}>
 			  <View style={styles.PinContainer}>
 				  <Pin pinsource={this.state.pin.tucano} columns={this.state.columns}/>
-				  <Pin pinsource={this.state.pin.guaipeca} columns={this.state.columns}/>
 			  </View>
-			  <View style={styles.PinContainer}>
+			  {/*<View style={styles.PinContainer}>
 				  <Pin pinsource={this.state.pin.guaipeca} columns={this.state.columns}/>
 				  <Pin pinsource={this.state.pin.tucano} columns={this.state.columns}/>
-			  </View>
-			  </ScrollView>
+			  </View>*/}
+		  </ScrollView>
 	    );
 	  }
 	}
@@ -53,7 +55,7 @@
 	    backgroundColor: '#F5FCFF'
 	},
 		contentContainer:{
-		flexDirection: 'row'
+		flexDirection: 'column'//row se for fazer com colunas
 	},
 		PinContainer: {
 		flex: 1,
@@ -63,4 +65,4 @@
 	}
 	});
 
-	AppRegistry.registerComponent('projetoLayout', () => projetoLayout);
+	AppRegistry.registerComponent('Projeto', () => Projeto);
